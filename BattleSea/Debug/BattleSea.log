@@ -1,0 +1,6 @@
+﻿  Game.cpp
+  MainWindow.cpp
+  Создание кода...
+c:\users\степан\source\repos\battlesea\battlesea\mainwindow.cpp(490): warning C4715: BattleSea::MainWindow::flag: значение возвращается не при всех путях выполнения
+  Field.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  BattleSea.vcxproj -> C:\Users\Степан\source\repos\BattleSea\Debug\BattleSea.exe
